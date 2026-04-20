@@ -15,7 +15,7 @@ const { google } = require('googleapis');
 const path = require('path');
 
 // ─── CONFIGURAÇÃO ────────────────────────────────────────────────────────────
-const SPREADSHEET_ID = 'COLE_AQUI_O_ID_DA_SUA_PLANILHA';
+const SPREADSHEET_ID = '1NTu_FTKFUSJzNcN0e5Kfy3qjklgofEalx7hLJNz3GQg';
 const CREDENTIALS_PATH = path.join(__dirname, 'credentials.json');
 
 // Schema completo — ordem dos campos = ordem das colunas na planilha
